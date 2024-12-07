@@ -1,5 +1,6 @@
 # SPDX-License-Identifier: GPL-2.0
 #
+#
 # Kbuild for top-level directory of the kernel
 
 # Prepare global headers and check sanity before descending into sub-directories
